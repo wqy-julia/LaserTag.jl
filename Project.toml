@@ -1,6 +1,6 @@
 name = "LaserTag"
 uuid = "041f53e1-e4f8-54ec-814d-e9e995aa38d4"
-repo = "https://github.com/WangQY17/LaserTag.jl"
+repo = "https://github.com/zsunberg/LaserTag.jl"
 version = "0.1.1"
 
 [deps]
