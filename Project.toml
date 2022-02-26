@@ -1,6 +1,6 @@
 name = "LaserTag"
 uuid = "041f53e1-e4f8-54ec-814d-e9e995aa38d4"
-repo = "https://github.com/zsunberg/LaserTag.jl"
+repo = "https://github.com/WangQY17/LaserTag.jl"
 version = "0.1.1"
 
 [deps]
@@ -21,14 +21,13 @@ TikzPictures = "37f6aa50-8035-52d0-81c2-5a1d08754b2d"
 
 [compat]
 AutoHashEquals = "0.2"
-Distributions = "0.22 - 0.24, 0.25"
+Distributions = "0.22, 0.23, 0.24, 0.25"
 IterTools = "1"
 POMDPModelTools = "0.3"
 POMDPSimulators = "0.3"
 POMDPs = "0.9"
 Parameters = "0.12"
 ParticleFilters = "0.5"
-SpecialFunctions = "1"
 StaticArrays = "0.12, 1"
 TikzPictures = "3"
 julia = "1"
